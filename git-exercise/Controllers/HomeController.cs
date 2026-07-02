@@ -15,6 +15,7 @@ namespace git_exercise.Controllers
         {
             return View();
         }
+        //Detta är min nya action som jag har lagt till(Zabi)
         public IActionResult Gategory()
         {
             return View();
